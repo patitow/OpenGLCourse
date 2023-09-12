@@ -37,3 +37,11 @@
 
 # Precompiled headers for intelliSense
 *.ipch
+
+# Visual C++ Cache files
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
